@@ -16,4 +16,23 @@ div{
 }
 input{
     margin: 1em;
+    border: 3px solid white;
+    border-radius: 5px;
+
+}
+
+button{
+    border-radius: 300px;
+    padding: 10px;
+    font-size: 10px;
+    border: 2px solid white;
+}
+
+button:hover{
+    font-size: 12px;
+}
+
+p:hover{
+    cursor: pointer;
+    text-decoration: underline;
 }
