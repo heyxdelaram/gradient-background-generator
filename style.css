@@ -1,0 +1,19 @@
+html{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: aliceblue;
+}
+
+body{
+    background-color: black;
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+}
+div{
+    border: 2px solid wheat;
+    width: 500px;
+}
+input{
+    margin: 1em;
+}
